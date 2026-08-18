@@ -59,6 +59,16 @@ researcher@github:~$ cat albania-ai-diella.txt
 
 ---
 
+## `> diella_src`
+
+The public Vue.js / Quasar frontend we pulled. There is no application backend in this tree.
+
+- [**diella-src/**](./diella-src/) - February 2026 collection + August 2026 live snapshot
+- [aibot-bundle.js](./diella-src/collected-2026-02/aibot-bundle.js) - 229 KB minified SPA (original pull)
+- Also hosted on ODINT: [download ZIP](https://data.odint.io/albania/diella-src.zip) · [browse](https://data.odint.io/albania/diella-src/) · [tour page](https://odint.io/pages/tours/albania-raw-diella-src)
+
+---
+
 ## `> crown_jewels`
 
 **What This Archive Contains:**
