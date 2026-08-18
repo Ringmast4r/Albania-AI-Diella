@@ -5,6 +5,9 @@
 [![Diella - Albania's AI Minister](https://img.shields.io/badge/DIELLA-Albania's%20AI%20Minister-CC0000?style=flat-square&logo=robot&logoColor=white)](https://e-albania.al)
 
 <div align="center">
+
+![Diella Avatar](./diella.png)
+
 <p><strong>Diella</strong> (from Albanian "diell" = sun)</p>
 <p>Female avatar in traditional Zadrimë costume</p>
 <p>Appointed September 2025 • Voice: Actress Anila Bisha • Role: Minister of State for AI</p>
