@@ -79,7 +79,7 @@ researcher@github:~$ cat albania-ai-diella.txt
 
 ### Parliament Members
 - **236 MPs Full PII** — Names, emails, DOBs, birthplaces, photos, party affiliation
-- **Interactive Viewer** — [MP-PII-VIEWER.html](./MP-PII-VIEWER.html) (searchable table)
+- **Interactive Viewer** — [MP-PII-VIEWER.html](https://ringmast4r.github.io/Albania-AI-Diella/MP-PII-VIEWER.html) (searchable table, live)
 
 ### Iranian Cyberattacks (Still Active)
 - **HomeLand Justice Telegram** — 13.6k members, active data distribution (@justice_homeland)
