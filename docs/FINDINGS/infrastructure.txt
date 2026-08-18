@@ -1,0 +1,65 @@
+# Infrastructure Data
+# Target: Diella AI / AKSHI / e-Albania
+# Date: 2026-01-25
+
+## IP Addresses
+
+e-albania.al
+  IP: 134.0.39.39
+  City: Tirana
+  Region: Tirana
+  Country: AL
+  Coordinates: 41.3274, 19.8187
+  ASN: AS5576
+  Org: Agjencia Kombetare Shoqerise se Informacionit
+
+akshi.gov.al
+  IP: 134.0.42.170
+  City: Tirana
+  Region: Tirana
+  Country: AL
+  Coordinates: 41.3274, 19.8187
+  ASN: AS5576
+  Org: Agjencia Kombetare Shoqerise se Informacionit
+
+## Azure Endpoint
+proud-coast-026495803.4.azurestaticapps.net
+  Last-Modified: Mon, 15 Sep 2025 19:45:11 GMT
+  (September 2025 - same timeframe as Diella ministerial appointment)
+
+## Technology Stack
+
+### e-albania.al
+- Backend: ASP.NET
+- Frontend: jQuery, Bootstrap, SweetAlert2
+- Analytics: Google Analytics (UA-122218565-1)
+- Monitoring: Azure Application Insights
+- Instrumentation Key: 40a2cf63-ce16-4617-afe4-c618d01198ef
+
+### akshi.gov.al
+- CMS: WordPress
+- Server: nginx/1.19.10
+- API: /wp-json/ (WordPress REST API)
+
+## API Endpoints (e-albania.al)
+/GGInteractions.aspx/TokenRefresh
+/GGInteractions.aspx/GetBootstrapToken
+/DBServices.aspx/GetServiceList
+/DBServices.aspx/CanUserRateService
+/DBServices.aspx/RateService
+/Handlers/PostBloodGroupConsent.ashx
+/Authenticate.aspx
+
+## Internal Stack (from subdomains)
+- Hasura GraphQL (dc-hasura.akshi.gov.al)
+- Keycloak IAM (dc-keycloak.akshi.gov.al)
+- REST API (dc-rest.akshi.gov.al)
+- Collabora Online (collabora.akshi.gov.al)
+- VS Code Server (code-server.akshi.gov.al)
+- cPanel hosting on multiple subdomains
+
+## Notes
+- All infrastructure self-hosted in Albania (data sovereignty)
+- AS5576 is AKSHI's own autonomous system
+- Modern security headers (HSTS, X-Content-Type-Options, etc.)
+- WordPress user enumeration blocked

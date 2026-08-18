@@ -1,0 +1,385 @@
+﻿{
+    "by_extension":  [
+                         {
+                             "extension":  ".pdf",
+                             "count":  30455,
+                             "size_mb":  18229.7,
+                             "size_gb":  17.8
+                         },
+                         {
+                             "extension":  ".jpg",
+                             "count":  8679,
+                             "size_mb":  9511,
+                             "size_gb":  9.29
+                         },
+                         {
+                             "extension":  ".jpeg",
+                             "count":  9978,
+                             "size_mb":  2712,
+                             "size_gb":  2.65
+                         },
+                         {
+                             "extension":  ".png",
+                             "count":  207,
+                             "size_mb":  440.9,
+                             "size_gb":  0.43
+                         },
+                         {
+                             "extension":  ".gif",
+                             "count":  34,
+                             "size_mb":  389.2,
+                             "size_gb":  0.38
+                         },
+                         {
+                             "extension":  ".jfif",
+                             "count":  1746,
+                             "size_mb":  341.2,
+                             "size_gb":  0.33
+                         },
+                         {
+                             "extension":  ".xls",
+                             "count":  117,
+                             "size_mb":  94,
+                             "size_gb":  0.09
+                         },
+                         {
+                             "extension":  ".docx",
+                             "count":  729,
+                             "size_mb":  72.6,
+                             "size_gb":  0.07
+                         },
+                         {
+                             "extension":  ".doc",
+                             "count":  378,
+                             "size_mb":  67.3,
+                             "size_gb":  0.07
+                         },
+                         {
+                             "extension":  ".xlsx",
+                             "count":  376,
+                             "size_mb":  43.6,
+                             "size_gb":  0.04
+                         },
+                         {
+                             "extension":  "(noext)",
+                             "count":  133,
+                             "size_mb":  40.6,
+                             "size_gb":  0.04
+                         },
+                         {
+                             "extension":  ".zip",
+                             "count":  8,
+                             "size_mb":  28.5,
+                             "size_gb":  0.03
+                         },
+                         {
+                             "extension":  ".ps",
+                             "count":  3,
+                             "size_mb":  25.1,
+                             "size_gb":  0.02
+                         },
+                         {
+                             "extension":  ".bmp",
+                             "count":  2,
+                             "size_mb":  12.8,
+                             "size_gb":  0.01
+                         },
+                         {
+                             "extension":  ".crdownload",
+                             "count":  13,
+                             "size_mb":  11.8,
+                             "size_gb":  0.01
+                         },
+                         {
+                             "extension":  ".mp4",
+                             "count":  1,
+                             "size_mb":  11.1,
+                             "size_gb":  0.01
+                         },
+                         {
+                             "extension":  ".1995 _Kodi i Procedur",
+                             "count":  1,
+                             "size_mb":  0.1,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ". në Elbasan_",
+                             "count":  2,
+                             "size_mb":  0.5,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".1999 _Për procedurat tatimore në",
+                             "count":  1,
+                             "size_mb":  0.3,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".1997 _Për Bankën e Sh",
+                             "count":  1,
+                             "size_mb":  0.1,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".1999 _Për funksionimin e organeve kolegjiale të administratës shtetërore dhe të enteve pu",
+                             "count":  1,
+                             "size_mb":  0.1,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".al_",
+                             "count":  1,
+                             "size_mb":  0,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".2024",
+                             "count":  4,
+                             "size_mb":  0.9,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".xlsb",
+                             "count":  1,
+                             "size_mb":  0,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".1999 _Për përpunimin_ transportimin dhe tregtimin e naftës_ gazit dhe të nënprodukteve të",
+                             "count":  3,
+                             "size_mb":  0.2,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ". Etilda Gjonaj kërkuar nga Kryetari i Grupit Parlamentar të Partisë Demokratike dhe Kryetari i Gr",
+                             "count":  1,
+                             "size_mb":  0.1,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ". 152015 _PËR ROLIN E KUVENDIT NË PROCESIN E INTEGRIMIT TË REPUBLIKËS SË SHQIPËRISË NË BASHKIMIN EUROPI",
+                             "count":  1,
+                             "size_mb":  0.4,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".xps",
+                             "count":  1,
+                             "size_mb":  0.9,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".p",
+                             "count":  1,
+                             "size_mb":  0.2,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".json",
+                             "count":  1,
+                             "size_mb":  0,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".2004_ _Pe_r miratimin e Rregullores se_ Kuvendit te_ Republike_s se_ Sh",
+                             "count":  1,
+                             "size_mb":  0.4,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ". 93 2017 per miratimin e struktures organizative_ organikes dhe klasifiki",
+                             "count":  1,
+                             "size_mb":  0.3,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".06",
+                             "count":  1,
+                             "size_mb":  0.2,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".05",
+                             "count":  1,
+                             "size_mb":  0.2,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".200",
+                             "count":  1,
+                             "size_mb":  0.2,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".09",
+                             "count":  1,
+                             "size_mb":  0.2,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".2011_ _PE_R SHE_RBIMIN VETERINAR NE_ REPUBL",
+                             "count":  1,
+                             "size_mb":  0.1,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".pd",
+                             "count":  4,
+                             "size_mb":  0.8,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".Arben PËLLU",
+                             "count":  1,
+                             "size_mb":  0.8,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".922014_ _PE_R TATIMIN MBI VLERE_N E SHTUAR NE_ REPUBLIKE_N E SHQIPE_RISE___ TE_ NDRYSHUAR",
+                             "count":  1,
+                             "size_mb":  2.6,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".922014_ _PE_R TATIMIN MBI VLERE_N E SHTUAR NE_ REPUBLIKE_N E SHQIPE_RISE___ TE_ NDRY",
+                             "count":  1,
+                             "size_mb":  0.8,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".lnk",
+                             "count":  1,
+                             "size_mb":  0,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".202",
+                             "count":  4,
+                             "size_mb":  1.5,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".922014_ _PE_R TATIMIN MBI VLERE_N E SHTUAR NE_ REPUBLIKE_N E SHQIPE_RISE___ TE_ NDRYSH",
+                             "count":  1,
+                             "size_mb":  2.1,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".922014_ _PE_R TATIMIN MBI VLERE_N E SHTUAR NE_ REPUBLIKE_N E SHQIPE_RISE___ TE_ NDRYS",
+                             "count":  1,
+                             "size_mb":  0.9,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".1",
+                             "count":  4,
+                             "size_mb":  0.1,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".10",
+                             "count":  1,
+                             "size_mb":  0,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".html",
+                             "count":  1,
+                             "size_mb":  0,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".2022",
+                             "count":  6,
+                             "size_mb":  0.1,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".do",
+                             "count":  4,
+                             "size_mb":  0,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".2022_ pe_r publikimin e nje_ vendi te_ lire_ pune ne_ She_rbimi Civil_ pe_r pozicionin _redaktor__ ne_ She_rbimi",
+                             "count":  1,
+                             "size_mb":  0,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".d",
+                             "count":  2,
+                             "size_mb":  0,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ". 15",
+                             "count":  1,
+                             "size_mb":  0,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".pptx",
+                             "count":  1,
+                             "size_mb":  0,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".12",
+                             "count":  1,
+                             "size_mb":  0,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".2020 _PE_R PROKURIMET NE_ FUSHE_N E MBROJTJES DHE TE_ SIGU",
+                             "count":  1,
+                             "size_mb":  0.3,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".20",
+                             "count":  2,
+                             "size_mb":  0.3,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".2023",
+                             "count":  2,
+                             "size_mb":  0,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".2",
+                             "count":  8,
+                             "size_mb":  1,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".922014_ _PE_R TATIMIN MBI VLERE_N E SHTUAR NE_ REPUBLIKE_N E SHQIPE_RISE___ TE_ NDRYSHUAR - PE_R ULJEN E",
+                             "count":  1,
+                             "size_mb":  1.4,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ". 15 2015 PE_R ROLIN E KUVENDIT NE_ PROCESIN E INTEGRIMIT TE_ REPUBLIKE_S SE_ SHQIPE_RISE_ NE_ BASHKIMIN E",
+                             "count":  3,
+                             "size_mb":  4.4,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ". Edi Rama ke_rkuar nga kryetari i Grupit Parlamentar te_ Partise_ Demokratike_ zoti Enke",
+                             "count":  1,
+                             "size_mb":  4.3,
+                             "size_gb":  0
+                         },
+                         {
+                             "extension":  ".0",
+                             "count":  2,
+                             "size_mb":  0,
+                             "size_gb":  0
+                         }
+                     ],
+    "total_files":  52942,
+    "generated":  "2026-08-18T16:56:00.5295287-04:00",
+    "total_size_gb":  31.31
+}

@@ -1,0 +1,3593 @@
+[
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "0820741",
+    "healthCenterName": "Elbasan - QSH. Nr. 4 Elbasan",
+    "healthCenterDescription": "Elbasan => QSH. Nr. 4 Elbasan",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "1020293",
+    "healthCenterName": "Gramsh - QSH Gramsh",
+    "healthCenterDescription": "Gramsh => QSH Gramsh",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "1030298",
+    "healthCenterName": "Kodovjat - Tunje",
+    "healthCenterDescription": "Gramsh => Kodovjat",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "1030299",
+    "healthCenterName": "Gramsh - Skenderbegas",
+    "healthCenterDescription": "Gramsh => Skenderbegas",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "1030302",
+    "healthCenterName": "Kushove - Sult",
+    "healthCenterDescription": "Gramsh => Kushove",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "1030304",
+    "healthCenterName": "Qsh Kukur- Lenie",
+    "healthCenterDescription": "Gramsh => Kukur",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "1030305",
+    "healthCenterName": "Gramsh - Porocan",
+    "healthCenterDescription": "Gramsh => Porocan",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "1030308",
+    "healthCenterName": "Gramsh - Pishaj",
+    "healthCenterDescription": "Gramsh => Pishaj",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "6",
+    "drfName": "GJIROKASTER",
+    "healthCenterCode": "1120483",
+    "healthCenterName": "Gjirokaster - Q.SH Gjirokaster",
+    "healthCenterDescription": "Gjirokaster => Q.SH Gjirokaster",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "6",
+    "drfName": "GJIROKASTER",
+    "healthCenterCode": "1120485",
+    "healthCenterName": "QSH Libohove",
+    "healthCenterDescription": "Gjirokaster => QSH Bashki Libohove",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "6",
+    "drfName": "GJIROKASTER",
+    "healthCenterCode": "1130488",
+    "healthCenterName": "Gjirokaster - Lunxheri - Antigone",
+    "healthCenterDescription": "Gjirokaster => Lunxheri",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "6",
+    "drfName": "GJIROKASTER",
+    "healthCenterCode": "1130490",
+    "healthCenterName": "Gjirokaster - Lazarat",
+    "healthCenterDescription": "Gjirokaster => Lazarat",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "6",
+    "drfName": "GJIROKASTER",
+    "healthCenterCode": "1130492",
+    "healthCenterName": "QSH Picar + Cepo + Odrie",
+    "healthCenterDescription": "Gjirokaster => Picar",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "6",
+    "drfName": "GJIROKASTER",
+    "healthCenterCode": "1130493",
+    "healthCenterName": "Gjirokaster - Dropulli i poshtem",
+    "healthCenterDescription": "Gjirokaster => Dropulli i poshtem",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "6",
+    "drfName": "GJIROKASTER",
+    "healthCenterCode": "1130494",
+    "healthCenterName": "Gjirokaster - Dropulli i siperm",
+    "healthCenterDescription": "Gjirokaster => Dropulli i siperm",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "6",
+    "drfName": "GJIROKASTER",
+    "healthCenterCode": "1130495",
+    "healthCenterName": "Gjirokaster - Pogon - Zagori",
+    "healthCenterDescription": "Gjirokaster => Pogon",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "8",
+    "drfName": "KUKES",
+    "healthCenterCode": "1220289",
+    "healthCenterName": "Has - Krume",
+    "healthCenterDescription": "Has => Krume",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "8",
+    "drfName": "KUKES",
+    "healthCenterCode": "1230290",
+    "healthCenterName": "Has - Golaj",
+    "healthCenterDescription": "Has => Golaj",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "8",
+    "drfName": "KUKES",
+    "healthCenterCode": "1230291",
+    "healthCenterName": "Fajza + Gjinaj",
+    "healthCenterDescription": "Has => Fajza",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "17",
+    "drfName": "KAVAJE",
+    "healthCenterCode": "1310114",
+    "healthCenterName": "Kavaje - QSH Kavaje",
+    "healthCenterDescription": "Kavaje => QSH Kavaje",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "17",
+    "drfName": "KAVAJE",
+    "healthCenterCode": "1310115",
+    "healthCenterName": "Kavaje - Rrogozhine",
+    "healthCenterDescription": "Kavaje => Rrogozhine",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "17",
+    "drfName": "KAVAJE",
+    "healthCenterCode": "1340116",
+    "healthCenterName": "Kavaje - Gose",
+    "healthCenterDescription": "Kavaje => Gose",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "17",
+    "drfName": "KAVAJE",
+    "healthCenterCode": "1340119",
+    "healthCenterName": "Kavaje - Lekaj",
+    "healthCenterDescription": "Kavaje => Lekaj",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "17",
+    "drfName": "KAVAJE",
+    "healthCenterCode": "1340122",
+    "healthCenterName": "Kavaje - Luz i Vogel",
+    "healthCenterDescription": "Kavaje => Luz i Vogel",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "17",
+    "drfName": "KAVAJE",
+    "healthCenterCode": "1340125",
+    "healthCenterName": "Kavaje - Kryevidh",
+    "healthCenterDescription": "Kavaje => Kryevidh",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "17",
+    "drfName": "KAVAJE",
+    "healthCenterCode": "1340129",
+    "healthCenterName": "Kavaje - Golem Kavaje",
+    "healthCenterDescription": "Kavaje => Golem Kavaje",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "17",
+    "drfName": "KAVAJE",
+    "healthCenterCode": "1340136",
+    "healthCenterName": "Kavaje - Synej",
+    "healthCenterDescription": "Kavaje => Synej",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "17",
+    "drfName": "KAVAJE",
+    "healthCenterCode": "1340140",
+    "healthCenterName": "Kavaje - Helmes",
+    "healthCenterDescription": "Kavaje => Helmes",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "17",
+    "drfName": "KAVAJE",
+    "healthCenterCode": "1340145",
+    "healthCenterName": "Kavaje - Sinaballaj",
+    "healthCenterDescription": "Kavaje => Sinaballaj",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "17",
+    "drfName": "KAVAJE",
+    "healthCenterCode": "1350720",
+    "healthCenterName": "QSH IEVP Rrogozhine - Durres",
+    "healthCenterDescription": "QSH IEVP Rrogozhine - Durres",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "17",
+    "drfName": "KAVAJE",
+    "healthCenterCode": "1350721",
+    "healthCenterName": "QSH IEVP Kavaje - Durres",
+    "healthCenterDescription": "QSH IEVP Kavaje - Durres",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "1410257",
+    "healthCenterName": "Kolonje - Q.SH ERSEKE",
+    "healthCenterDescription": "Kolonje => Q.SH ERSEKE",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "1410258",
+    "healthCenterName": "Kolonje - LESKOVIK",
+    "healthCenterDescription": "Kolonje => LESKOVIK",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "1430259",
+    "healthCenterName": "Kolonje - Qender Kolonje",
+    "healthCenterDescription": "Kolonje => Qender Kolonje",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "1430261",
+    "healthCenterName": "Kolonje - BARMASH",
+    "healthCenterDescription": "Kolonje => BARMASH",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "1430262",
+    "healthCenterName": "Kolonje - Clirim + Mollas",
+    "healthCenterDescription": "Kolonje => CLIRIM Kolonje",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "1440798",
+    "healthCenterName": "Kolonje - NOVOSELE Kolonje",
+    "healthCenterDescription": "Kolonje => NOVOSELE Kolonje",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "1520572",
+    "healthCenterName": "Korce - QSH Nr. 1 Korce",
+    "healthCenterDescription": "Korce => QSH Nr. 1 Korce",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "1520573",
+    "healthCenterName": "Korce - QSH Nr. 2 Korce",
+    "healthCenterDescription": "Korce => QSH Nr. 2 Korce",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "1520575",
+    "healthCenterName": "Korce - QSH Nr. 3 Korce",
+    "healthCenterDescription": "Korce => QSH Nr. 3 Korce",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "1520577",
+    "healthCenterName": "Korce - QSH Nr. 4 Korce",
+    "healthCenterDescription": "Korce => QSH Nr. 4 Korce",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "1530579",
+    "healthCenterName": "Korce - MALIQ",
+    "healthCenterDescription": "Korce => MALIQ",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "1530580",
+    "healthCenterName": "Korce - BULGAREC",
+    "healthCenterDescription": "Korce => BULGAREC",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "1530582",
+    "healthCenterName": "Korce - LIBONIK",
+    "healthCenterDescription": "Korce => LIBONIK",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "1530584",
+    "healthCenterName": "Korce - PIRG",
+    "healthCenterDescription": "Korce => PIRG",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "1530585",
+    "healthCenterName": "Korce - DRENOVE ",
+    "healthCenterDescription": "Korce => DRENOVE ",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "1530586",
+    "healthCenterName": "Korce - Mollaj",
+    "healthCenterDescription": "Korce => Mollaj",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "1530587",
+    "healthCenterName": "Korce - VOSKOP",
+    "healthCenterDescription": "Korce => VOSKOP",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "1530588",
+    "healthCenterName": "Voskopoje - Lekas",
+    "healthCenterDescription": "Korce => VOSKOPOJE",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "1530589",
+    "healthCenterName": "Korce - VRESHTAS",
+    "healthCenterDescription": "Korce => VRESHTAS",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "1530591",
+    "healthCenterName": "Korce - POJAN",
+    "healthCenterDescription": "Korce => POJAN",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "1530594",
+    "healthCenterName": "Korce - LIQENAS",
+    "healthCenterDescription": "Korce => LIQENAS",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "1530596",
+    "healthCenterName": "Korce - GORE",
+    "healthCenterDescription": "Korce => GORE",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "1530597",
+    "healthCenterName": "Korce - MOGLICE",
+    "healthCenterDescription": "Korce => MOGLICE",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "1530598",
+    "healthCenterName": "Korce - VITHKUQ",
+    "healthCenterDescription": "Korce => VITHKUQ",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "1550600",
+    "healthCenterName": "QSH IEVP Korce",
+    "healthCenterDescription": "QSH IEVP Korce",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "1580803",
+    "healthCenterName": "Korce - Kujdesi Shendetesor Familjar",
+    "healthCenterDescription": "Korce => Kujdesi Shendetesor Familjar",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "3",
+    "drfName": "DURRES",
+    "healthCenterCode": "1610030",
+    "healthCenterName": "Kruje  - QSh Krujë+Cudhi",
+    "healthCenterDescription": "Kruje => QSh Krujë+Cudhi",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "3",
+    "drfName": "DURRES",
+    "healthCenterCode": "1610031",
+    "healthCenterName": "Kruje - Fushe Kruje",
+    "healthCenterDescription": "Kruje => Fushe Kruje",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "3",
+    "drfName": "DURRES",
+    "healthCenterCode": "1610033",
+    "healthCenterName": "Kruje - Nikel",
+    "healthCenterDescription": "Kruje => Nikel",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "3",
+    "drfName": "DURRES",
+    "healthCenterCode": "1630034",
+    "healthCenterName": "Kruje - K. Thumane",
+    "healthCenterDescription": "Kruje => K. Thumane",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "3",
+    "drfName": "DURRES",
+    "healthCenterCode": "1630035",
+    "healthCenterName": "Kruje - Bubq",
+    "healthCenterDescription": "Kruje => Bubq",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "3",
+    "drfName": "DURRES",
+    "healthCenterCode": "1650038",
+    "healthCenterName": "QSH IEVP Zahari Kruje - Durres",
+    "healthCenterDescription": "QSH IEVP Zahari Kruje - Durres",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "3",
+    "drfName": "DURRES",
+    "healthCenterCode": "1650039",
+    "healthCenterName": "QSH IEVP Fush-Kruje - Durres",
+    "healthCenterDescription": "QSH IEVP Fush-Kruje - Durres",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "1",
+    "drfName": "BERAT",
+    "healthCenterCode": "1720744",
+    "healthCenterName": "Kucove - QSH Kucove",
+    "healthCenterDescription": "Ku¿¿ove => QSH Kucove",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "1",
+    "drfName": "BERAT",
+    "healthCenterCode": "1730088",
+    "healthCenterName": "Kucove - Kozare",
+    "healthCenterDescription": "Kucove => Kozare",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "1",
+    "drfName": "BERAT",
+    "healthCenterCode": "1730089",
+    "healthCenterName": "Kucove - Perondi",
+    "healthCenterDescription": "Ku¿¿ove => Perondi",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "8",
+    "drfName": "KUKES",
+    "healthCenterCode": "1810273",
+    "healthCenterName": "Kukes - QSH Kukes",
+    "healthCenterDescription": "Kukes => QSH Kukes",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "8",
+    "drfName": "KUKES",
+    "healthCenterCode": "1830275",
+    "healthCenterName": "Kukes - Malzi",
+    "healthCenterDescription": "Kukes => Malzi",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "8",
+    "drfName": "KUKES",
+    "healthCenterCode": "1830276",
+    "healthCenterName": "Kukes - Bicaj",
+    "healthCenterDescription": "Kukes => Bicaj",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "8",
+    "drfName": "KUKES",
+    "healthCenterCode": "1830277",
+    "healthCenterName": "Kukes - Ujmisht",
+    "healthCenterDescription": "Kukes => Ujmisht",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "8",
+    "drfName": "KUKES",
+    "healthCenterCode": "1830278",
+    "healthCenterName": "Kukes - Terthore",
+    "healthCenterDescription": "Kukes => Terthore",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "8",
+    "drfName": "KUKES",
+    "healthCenterCode": "1830279",
+    "healthCenterName": "Kukes - Shtiqen",
+    "healthCenterDescription": "Kukes => Shtiqen",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "8",
+    "drfName": "KUKES",
+    "healthCenterCode": "1830280",
+    "healthCenterName": "Kukes - Zapod+Orgjost",
+    "healthCenterDescription": "Kukes => Zapod+Orgjost",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "8",
+    "drfName": "KUKES",
+    "healthCenterCode": "1830281",
+    "healthCenterName": "Kukes - Shishtavec",
+    "healthCenterDescription": "Kukes => Shishtavec",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "8",
+    "drfName": "KUKES",
+    "healthCenterCode": "1830282",
+    "healthCenterName": "Kukes - Topojan",
+    "healthCenterDescription": "Kukes => Topojan",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "8",
+    "drfName": "KUKES",
+    "healthCenterCode": "1830283",
+    "healthCenterName": "Bushtrice + Kalis",
+    "healthCenterDescription": "Kukes => Bushtrice",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "8",
+    "drfName": "KUKES",
+    "healthCenterCode": "1830284",
+    "healthCenterName": "Kukes - Surroj+Arren",
+    "healthCenterDescription": "Kukes => Surroj+Arren",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "8",
+    "drfName": "KUKES",
+    "healthCenterCode": "1830286",
+    "healthCenterName": "Kukes - Kolsh Kukes",
+    "healthCenterDescription": "Kukes => Kolsh Kukes",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "8",
+    "drfName": "KUKES",
+    "healthCenterCode": "1830288",
+    "healthCenterName": "Kukes - Caje",
+    "healthCenterDescription": "Kukes => Caje",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "8",
+    "drfName": "KUKES",
+    "healthCenterCode": "1850290",
+    "healthCenterName": "Kukes - IEVP Kukes",
+    "healthCenterDescription": "Kukes => IEVP Kukes",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "9",
+    "drfName": "LEZHE",
+    "healthCenterCode": "1910159",
+    "healthCenterName": "Lac - QSH Lac",
+    "healthCenterDescription": "Lac => QSH Lac",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "9",
+    "drfName": "LEZHE",
+    "healthCenterCode": "1910161",
+    "healthCenterName": "Lac - Mamurras",
+    "healthCenterDescription": "Lac => Mamurras",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "9",
+    "drfName": "LEZHE",
+    "healthCenterCode": "1920163",
+    "healthCenterName": "Lac - Milot",
+    "healthCenterDescription": "Lac => Milot",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "9",
+    "drfName": "LEZHE",
+    "healthCenterCode": "1920165",
+    "healthCenterName": "Lac - Fushe Kuqe",
+    "healthCenterDescription": "Lac => Fushe Kuqe",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "9",
+    "drfName": "LEZHE",
+    "healthCenterCode": "2010146",
+    "healthCenterName": "Lezhe - QSH Lezhe",
+    "healthCenterDescription": "Lezhe => QSH Lezhe",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "9",
+    "drfName": "LEZHE",
+    "healthCenterCode": "2020152",
+    "healthCenterName": "Lezhe - Shengjin",
+    "healthCenterDescription": "Lezhe => Shengjin",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "9",
+    "drfName": "LEZHE",
+    "healthCenterCode": "2030151",
+    "healthCenterName": "Lezhe - Balldren i ri",
+    "healthCenterDescription": "Lezhe => Balldren i ri",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "9",
+    "drfName": "LEZHE",
+    "healthCenterCode": "2030153",
+    "healthCenterName": "Lezhe - Zejmen",
+    "healthCenterDescription": "Lezhe => Zejmen",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "9",
+    "drfName": "LEZHE",
+    "healthCenterCode": "2030154",
+    "healthCenterName": "Lezhe - Kolsh Lezhe",
+    "healthCenterDescription": "Lezhe => Kolsh Lezhe",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "9",
+    "drfName": "LEZHE",
+    "healthCenterCode": "2030155",
+    "healthCenterName": "Lezhe - Shenkoll",
+    "healthCenterDescription": "Lezhe => Shenkoll",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "9",
+    "drfName": "LEZHE",
+    "healthCenterCode": "2030156",
+    "healthCenterName": "Kallmet+Ungrej",
+    "healthCenterDescription": "Lezhe => Kallmet+Ungrej",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "9",
+    "drfName": "LEZHE",
+    "healthCenterCode": "2030157",
+    "healthCenterName": "Lezhe - Blinisht",
+    "healthCenterDescription": "Lezhe => Blinisht",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "9",
+    "drfName": "LEZHE",
+    "healthCenterCode": "2030159",
+    "healthCenterName": "Lezhe - Dajc Lezhe",
+    "healthCenterDescription": "Lezhe => Dajc Lezhe",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "9",
+    "drfName": "LEZHE",
+    "healthCenterCode": "2050938",
+    "healthCenterName": "IEVP Sh. Kolle Lezhe",
+    "healthCenterDescription": "IEVP Sh. Kolle Lezhe",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "2120263",
+    "healthCenterName": "Librazhd - QSH Librazhd",
+    "healthCenterDescription": "Librazhd => QSH Librazhd",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "2130264",
+    "healthCenterName": "Librazhd - Qukes",
+    "healthCenterDescription": "Librazhd => Qukes",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "2130265",
+    "healthCenterName": "Librazhd - Stravaj",
+    "healthCenterDescription": "Librazhd => Stravaj",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "2130266",
+    "healthCenterName": "Librazhd - Hotolisht",
+    "healthCenterDescription": "Librazhd => Hotolisht",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "2130267",
+    "healthCenterName": "Librazhd - Polis",
+    "healthCenterDescription": "Librazhd => Polis",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "2130268",
+    "healthCenterName": "Librazhd - Rrajce",
+    "healthCenterDescription": "Librazhd => Rrajce",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "2130269",
+    "healthCenterName": "QSh Lunik-Stebleve",
+    "healthCenterDescription": "Librazhd => Lunik",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "2130270",
+    "healthCenterName": "Librazhd - Orenje",
+    "healthCenterDescription": "Librazhd => Orenje",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "2130271",
+    "healthCenterName": "Librazhd - Prenjas",
+    "healthCenterDescription": "Librazhd => Prenjas",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "2130702",
+    "healthCenterName": "Librazhd - Qender Librazhd",
+    "healthCenterDescription": "Librazhd => Qender Librazhd",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "1",
+    "drfName": "BERAT",
+    "healthCenterCode": "220497",
+    "healthCenterName": "Berat - QSH Nr. 2 Berat",
+    "healthCenterDescription": "Berat => QSH Nr. 2 Berat",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "1",
+    "drfName": "BERAT",
+    "healthCenterCode": "220500",
+    "healthCenterName": "Berat - QSH Nr. 1 Berat",
+    "healthCenterDescription": "N/A",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "1",
+    "drfName": "BERAT",
+    "healthCenterCode": "220502",
+    "healthCenterName": "Berat - QSH Nr. 3 Berat",
+    "healthCenterDescription": "Berat => QSH Nr. 3 Berat",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "1",
+    "drfName": "BERAT",
+    "healthCenterCode": "220514",
+    "healthCenterName": "Berat - Ura vajgurore",
+    "healthCenterDescription": "Berat => Ura vajgurore",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "19",
+    "drfName": "LUSHNJE",
+    "healthCenterCode": "2220543",
+    "healthCenterName": "Lushnje - QSH Nr. 2  Lushnje",
+    "healthCenterDescription": "Lushnje => QSH Nr. 2  Lushnje",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "19",
+    "drfName": "LUSHNJE",
+    "healthCenterCode": "2220547",
+    "healthCenterName": "Lushnje - QSH Nr. 1  Lushnje",
+    "healthCenterDescription": "Lushnje => QSH Nr. 1  Lushnje",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "19",
+    "drfName": "LUSHNJE",
+    "healthCenterCode": "2220550",
+    "healthCenterName": "Lushnje - Divjake",
+    "healthCenterDescription": "Lushnje => Divjake",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "19",
+    "drfName": "LUSHNJE",
+    "healthCenterCode": "2230552",
+    "healthCenterName": "Lushnje - Karbunare",
+    "healthCenterDescription": "Lushnje => Karbunare",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "19",
+    "drfName": "LUSHNJE",
+    "healthCenterCode": "2230554",
+    "healthCenterName": "Lushnje - Ballagat",
+    "healthCenterDescription": "Lushnje => Ballagat",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "19",
+    "drfName": "LUSHNJE",
+    "healthCenterCode": "2230555",
+    "healthCenterName": "Lushnje - Hysgjokaj",
+    "healthCenterDescription": "Lushnje => Hysgjokaj",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "19",
+    "drfName": "LUSHNJE",
+    "healthCenterCode": "2230556",
+    "healthCenterName": "Lushnje - Golem Lushnje",
+    "healthCenterDescription": "Lushnje => Golem Lushnje",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "19",
+    "drfName": "LUSHNJE",
+    "healthCenterCode": "2230557",
+    "healthCenterName": "Lushnje - Fiershegan",
+    "healthCenterDescription": "Lushnje => Fiershegan",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "19",
+    "drfName": "LUSHNJE",
+    "healthCenterCode": "2230559",
+    "healthCenterName": "Lushnje - Allkaj",
+    "healthCenterDescription": "Lushnje => Allkaj",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "19",
+    "drfName": "LUSHNJE",
+    "healthCenterCode": "2230560",
+    "healthCenterName": "Lushnje - Krutje",
+    "healthCenterDescription": "Lushnje => Krutje",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "19",
+    "drfName": "LUSHNJE",
+    "healthCenterCode": "2230561",
+    "healthCenterName": "Lushnje - Bubullime",
+    "healthCenterDescription": "Lushnje => Bubullime",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "19",
+    "drfName": "LUSHNJE",
+    "healthCenterCode": "2230562",
+    "healthCenterName": "Lushnje - Kolonje",
+    "healthCenterDescription": "Lushnje => Kolonje",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "19",
+    "drfName": "LUSHNJE",
+    "healthCenterCode": "2230563",
+    "healthCenterName": "Lushnje - Gradisht",
+    "healthCenterDescription": "Lushnje => Gradisht",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "19",
+    "drfName": "LUSHNJE",
+    "healthCenterCode": "2230564",
+    "healthCenterName": "Lushnje - Rremas",
+    "healthCenterDescription": "Lushnje => Rremas",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "19",
+    "drfName": "LUSHNJE",
+    "healthCenterCode": "2230565",
+    "healthCenterName": "Lushnje - Grabian",
+    "healthCenterDescription": "Lushnje => Grabian",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "19",
+    "drfName": "LUSHNJE",
+    "healthCenterCode": "2230566",
+    "healthCenterName": "Lushnje - Terbuf",
+    "healthCenterDescription": "Lushnje => Terbuf",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "19",
+    "drfName": "LUSHNJE",
+    "healthCenterCode": "2230567",
+    "healthCenterName": "Lushnje - Dushk",
+    "healthCenterDescription": "Lushnje => Dushk",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "19",
+    "drfName": "LUSHNJE",
+    "healthCenterCode": "2250568",
+    "healthCenterName": "Lushnje - IEVP Lushnje",
+    "healthCenterDescription": "Lushnje => IEVP Lushnje",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "1",
+    "drfName": "BERAT",
+    "healthCenterCode": "230504",
+    "healthCenterName": "Berat - Otllak",
+    "healthCenterDescription": "Berat => Otllak",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "1",
+    "drfName": "BERAT",
+    "healthCenterCode": "230505",
+    "healthCenterName": "Berat - Kutalli",
+    "healthCenterDescription": "Berat => Kutalli",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "1",
+    "drfName": "BERAT",
+    "healthCenterCode": "230506",
+    "healthCenterName": "Berat - Lumas",
+    "healthCenterDescription": "Berat => Lumas",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "1",
+    "drfName": "BERAT",
+    "healthCenterCode": "230507",
+    "healthCenterName": "Berat - Velabisht",
+    "healthCenterDescription": "Berat => Velabisht",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "1",
+    "drfName": "BERAT",
+    "healthCenterCode": "230508",
+    "healthCenterName": "Berat - Poshnje",
+    "healthCenterDescription": "Berat => Poshnje",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "1",
+    "drfName": "BERAT",
+    "healthCenterCode": "230509",
+    "healthCenterName": "Berat - Sinje",
+    "healthCenterDescription": "Berat => Sinje",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "1",
+    "drfName": "BERAT",
+    "healthCenterCode": "230510",
+    "healthCenterName": "Berat - Vertop",
+    "healthCenterDescription": "Berat => Vertop",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "1",
+    "drfName": "BERAT",
+    "healthCenterCode": "230511",
+    "healthCenterName": "Berat - Terpan",
+    "healthCenterDescription": "Berat => Terpan",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "1",
+    "drfName": "BERAT",
+    "healthCenterCode": "230512",
+    "healthCenterName": "Berat - Roshnik",
+    "healthCenterDescription": "Berat => Roshnik",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "1",
+    "drfName": "BERAT",
+    "healthCenterCode": "230513",
+    "healthCenterName": "Berat - Cukalat",
+    "healthCenterDescription": "Berat => Cukalat",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "2320533",
+    "healthCenterName": "Koplik - Qender",
+    "healthCenterDescription": "Malesi e Madhe => QSH Koplik",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "2330530",
+    "healthCenterName": "Malesi e Madhe - Deda/Shkrel",
+    "healthCenterDescription": "Malesi e Madhe => Deda/Shkrel",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "2330535",
+    "healthCenterName": "Malesi e Madhe - Gruemire",
+    "healthCenterDescription": "Malesi e Madhe => Gruemire",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "2330538",
+    "healthCenterName": "Malesi e Madhe - Bajze/Kastrat",
+    "healthCenterDescription": "Malesi e Madhe => Bajze/Kastrat",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "2330539",
+    "healthCenterName": "Malesi e Madhe - Tamara/Kelmend",
+    "healthCenterDescription": "Malesi e Madhe => Tamara/Kelmend",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "2350782",
+    "healthCenterName": "IEVP Reç",
+    "healthCenterDescription": "IEVP Reç",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "5",
+    "drfName": "FIER",
+    "healthCenterCode": "2410248",
+    "healthCenterName": "Mallakaster - QSH Ballsh+Greshice",
+    "healthCenterDescription": "Mallakaster => QSH Ballsh+Greshice",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "5",
+    "drfName": "FIER",
+    "healthCenterCode": "2430249",
+    "healthCenterName": "Mallakaster - Dukas",
+    "healthCenterDescription": "Mallakaster => Dukas",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "5",
+    "drfName": "FIER",
+    "healthCenterCode": "2430250",
+    "healthCenterName": "Mallakaster - Aranitas+Ngracan",
+    "healthCenterDescription": "Mallakaster => Aranitas+Ngracan",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "5",
+    "drfName": "FIER",
+    "healthCenterCode": "2430251",
+    "healthCenterName": "Mallakaster - Hekal",
+    "healthCenterDescription": "Mallakaster => Hekal",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "5",
+    "drfName": "FIER",
+    "healthCenterCode": "2430252",
+    "healthCenterName": "Mallakaster - Ngracan",
+    "healthCenterDescription": "Mallakaster => Ngracan",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "5",
+    "drfName": "FIER",
+    "healthCenterCode": "2430253",
+    "healthCenterName": "Mallakaster - Greshice",
+    "healthCenterDescription": "Mallakaster => Greshice",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "5",
+    "drfName": "FIER",
+    "healthCenterCode": "2430254",
+    "healthCenterName": "Mallakaster - Kute",
+    "healthCenterDescription": "Mallakaster => Kute",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "5",
+    "drfName": "FIER",
+    "healthCenterCode": "2430255",
+    "healthCenterName": "Mallakaster - Fratar+Kute+Selite",
+    "healthCenterDescription": "Mallakaster => Fratar+Kute+Selite",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "5",
+    "drfName": "FIER",
+    "healthCenterCode": "2430256",
+    "healthCenterName": "Mallakaster - Selite Mallakaster",
+    "healthCenterDescription": "Mallakaster => Selite Mallakaster",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "1",
+    "drfName": "BERAT",
+    "healthCenterCode": "250743",
+    "healthCenterName": "IEVP Berat",
+    "healthCenterDescription": "IEVP Berat",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "2510789",
+    "healthCenterName": "Mat - QSH Burrel",
+    "healthCenterDescription": "Mat => QSH Burrel",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "2530071",
+    "healthCenterName": "Mat - Klos+Xiber Mat",
+    "healthCenterDescription": "Mat => Klos+Xiber Mat",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "2530074",
+    "healthCenterName": "Mat - Komsi",
+    "healthCenterDescription": "Mat => Komsi",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "2530075",
+    "healthCenterName": "Suc + Gurrë",
+    "healthCenterDescription": "Mat => Suc",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "2530077",
+    "healthCenterName": "Lis + Macukull",
+    "healthCenterDescription": "Mat => Lis",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "2530078",
+    "healthCenterName": "Baze - Ulez",
+    "healthCenterDescription": "Mat => Ulez - Ulez",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "2530080",
+    "healthCenterName": "Mat - Xiberr",
+    "healthCenterDescription": "Mat => Xiberr",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "2530082",
+    "healthCenterName": "Rukaj + Derjan",
+    "healthCenterDescription": "Mat => Rukaj",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "2550790",
+    "healthCenterName": "Mat - IEVP Burrel",
+    "healthCenterDescription": "Mat => IEVP Burrel",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "9",
+    "drfName": "LEZHE",
+    "healthCenterCode": "2620515",
+    "healthCenterName": "Mirdite - QSH Rreshen",
+    "healthCenterDescription": "Mirdite => QSH Rreshen",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "9",
+    "drfName": "LEZHE",
+    "healthCenterCode": "2620516",
+    "healthCenterName": "Mirdite - Rubik",
+    "healthCenterDescription": "Mirdite => Rubik",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "9",
+    "drfName": "LEZHE",
+    "healthCenterCode": "2630519",
+    "healthCenterName": "Orosh + Kacinar",
+    "healthCenterDescription": "Mirdite => Orosh",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "9",
+    "drfName": "LEZHE",
+    "healthCenterCode": "2630522",
+    "healthCenterName": "Mirdite - Fane",
+    "healthCenterDescription": "Mirdite => Fane",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "9",
+    "drfName": "LEZHE",
+    "healthCenterCode": "2630525",
+    "healthCenterName": "Kthelle + Kurbnesh",
+    "healthCenterDescription": "Mirdite => Kthelle",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "2720038",
+    "healthCenterName": "Peqin - Karine",
+    "healthCenterDescription": "Peqin => QSH Peqin",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "2730041",
+    "healthCenterName": "Peqin - Perparim",
+    "healthCenterDescription": "Peqin => Perparim",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "2730042",
+    "healthCenterName": "Peqin - Pajove",
+    "healthCenterDescription": "Peqin => Pajove",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "2730044",
+    "healthCenterName": "Peqin - Sheze",
+    "healthCenterDescription": "Peqin => Sheze",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "2730046",
+    "healthCenterName": "Peqin - Gjocaj",
+    "healthCenterDescription": "Peqin => Gjocaj",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "2750747",
+    "healthCenterName": "IEVP Peqin",
+    "healthCenterDescription": "IEVP Peqin",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "6",
+    "drfName": "GJIROKASTER",
+    "healthCenterCode": "2810055",
+    "healthCenterName": "Permet - Q.SH Permet",
+    "healthCenterDescription": "Permet => Q.SH Permet",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "6",
+    "drfName": "GJIROKASTER",
+    "healthCenterCode": "2820056",
+    "healthCenterName": "Permet - Kelcyre+Dishnice",
+    "healthCenterDescription": "Permet => Kelcyre+Dishnice",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "6",
+    "drfName": "GJIROKASTER",
+    "healthCenterCode": "2830058",
+    "healthCenterName": "Petran-Çarçovë",
+    "healthCenterDescription": "Permet => Petran",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "6",
+    "drfName": "GJIROKASTER",
+    "healthCenterCode": "2830060",
+    "healthCenterName": "Piskove - Frasher",
+    "healthCenterDescription": "Permet => Piskove",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "6",
+    "drfName": "GJIROKASTER",
+    "healthCenterCode": "2830061",
+    "healthCenterName": "Permet - Deshnice",
+    "healthCenterDescription": "Permet => Deshnice",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "6",
+    "drfName": "GJIROKASTER",
+    "healthCenterCode": "2830064",
+    "healthCenterName": "Suke - Ballaban",
+    "healthCenterDescription": "Permet => Suka",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "18",
+    "drfName": "POGRADEC",
+    "healthCenterCode": "2910047",
+    "healthCenterName": "Pogradec - QSH POGRADEC",
+    "healthCenterDescription": "Pogradec => QSH POGRADEC",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "18",
+    "drfName": "POGRADEC",
+    "healthCenterCode": "2930048",
+    "healthCenterName": "Pogradec - HUDENISHT",
+    "healthCenterDescription": "Pogradec => HUDENISHT",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "18",
+    "drfName": "POGRADEC",
+    "healthCenterCode": "2930049",
+    "healthCenterName": "Pogradec - BUCIMAS",
+    "healthCenterDescription": "Pogradec => BUCIMAS",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "18",
+    "drfName": "POGRADEC",
+    "healthCenterCode": "2930050",
+    "healthCenterName": "Pogradec - CERRAVE",
+    "healthCenterDescription": "Pogradec => CERRAVE",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "18",
+    "drfName": "POGRADEC",
+    "healthCenterCode": "2930051",
+    "healthCenterName": "Pogradec - DARDHAS",
+    "healthCenterDescription": "Pogradec => DARDHAS",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "18",
+    "drfName": "POGRADEC",
+    "healthCenterCode": "2930052",
+    "healthCenterName": "Pogradec - TREBINJE",
+    "healthCenterDescription": "Pogradec => TREBINJE",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "18",
+    "drfName": "POGRADEC",
+    "healthCenterCode": "2930053",
+    "healthCenterName": "Pogradec - PROPTISHT",
+    "healthCenterDescription": "Pogradec => PROPTISHT",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "18",
+    "drfName": "POGRADEC",
+    "healthCenterCode": "2930054",
+    "healthCenterName": "Pogradec - VELCAN",
+    "healthCenterDescription": "Pogradec => VELCAN",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "2950055",
+    "healthCenterName": "IEVP Pojske",
+    "healthCenterDescription": "IEVP Pojske",
+    "healthCenterEmail": "",
+    "healthCenterPhone": ""
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "3020309",
+    "healthCenterName": "QSH Puke-Rrape",
+    "healthCenterDescription": "Puke => Puke",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "3020310",
+    "healthCenterName": "Puke - Fushe Arrez",
+    "healthCenterDescription": "Puke => Fushe Arrez",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "3020661",
+    "healthCenterName": "Velipoj",
+    "healthCenterDescription": "Velipoj",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "3030311",
+    "healthCenterName": "Puke - Qafe Mali",
+    "healthCenterDescription": "Puke => Qafe Mali",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "3030313",
+    "healthCenterName": "Puke - Gjegjan",
+    "healthCenterDescription": "Puke => Gjegjan",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "3030314",
+    "healthCenterName": "QSH Iballe + Blerim",
+    "healthCenterDescription": "Puke => Iballe",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "3030315",
+    "healthCenterName": "Puke - Luf",
+    "healthCenterDescription": "Puke => Luf",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "3030317",
+    "healthCenterName": "Puke - Fierze Puke",
+    "healthCenterDescription": "Puke => Fierze Puke",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "3030318",
+    "healthCenterName": "Puke - Qelez",
+    "healthCenterDescription": "Puke => Qelez",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "310788",
+    "healthCenterName": "Bulqize - QSH Bulqize",
+    "healthCenterDescription": "Bulqize => QSH Bulqize",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "13",
+    "drfName": "SARANDE",
+    "healthCenterCode": "3110465",
+    "healthCenterName": "Sarande - QSH Saranda",
+    "healthCenterDescription": "Sarande => QSH Saranda",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "13",
+    "drfName": "SARANDE",
+    "healthCenterCode": "3120467",
+    "healthCenterName": "Sarande - Konispol",
+    "healthCenterDescription": "Sarande => Konispol",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "13",
+    "drfName": "SARANDE",
+    "healthCenterCode": "3130111",
+    "healthCenterName": "Sarande - lukove",
+    "healthCenterDescription": "Sarande => lukove",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "13",
+    "drfName": "SARANDE",
+    "healthCenterCode": "3130468",
+    "healthCenterName": "Sarande - Ksamil",
+    "healthCenterDescription": "Sarande => Ksamil",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "13",
+    "drfName": "SARANDE",
+    "healthCenterCode": "3130469",
+    "healthCenterName": "Sarande - Xarre",
+    "healthCenterDescription": "Sarande => Xarre",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "13",
+    "drfName": "SARANDE",
+    "healthCenterCode": "3130470",
+    "healthCenterName": "Sarande - Markat",
+    "healthCenterDescription": "Sarande => Markat",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "13",
+    "drfName": "SARANDE",
+    "healthCenterCode": "3130471",
+    "healthCenterName": "Sarande - Livadhja",
+    "healthCenterDescription": "Sarande => Livadhja",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "13",
+    "drfName": "SARANDE",
+    "healthCenterCode": "3130473",
+    "healthCenterName": "Sarande - Aliko",
+    "healthCenterDescription": "Sarande => Aliko",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "13",
+    "drfName": "SARANDE",
+    "healthCenterCode": "3130690",
+    "healthCenterName": "Sarande - Dhiver",
+    "healthCenterDescription": "Sarande => Dhiver",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "1",
+    "drfName": "BERAT",
+    "healthCenterCode": "3220455",
+    "healthCenterName": "Skrapar - QSH Corovode",
+    "healthCenterDescription": "Skrapar => QSH Corovode",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "1",
+    "drfName": "BERAT",
+    "healthCenterCode": "3220456",
+    "healthCenterName": "Skrapar - Polican",
+    "healthCenterDescription": "Skrapar => Polican",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "1",
+    "drfName": "BERAT",
+    "healthCenterCode": "3230459",
+    "healthCenterName": "Skrapar - Bogove + Vendresh",
+    "healthCenterDescription": "Skrapar => Bogove + Vendresh",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "1",
+    "drfName": "BERAT",
+    "healthCenterCode": "3230462",
+    "healthCenterName": "Skrapar - Qender + Leshnje + Potom",
+    "healthCenterDescription": "Skrapar => Qender + Leshnje + Potom",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "330347",
+    "healthCenterName": "Bulqize - Zerqan",
+    "healthCenterDescription": "Bulqize => Zerqan",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "330348",
+    "healthCenterName": "Bulqize - Shupenze",
+    "healthCenterDescription": "Bulqize => Shupenze",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "330349",
+    "healthCenterName": "Bulqize - Gjorice",
+    "healthCenterDescription": "Bulqize => Gjorice",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "330350",
+    "healthCenterName": "Bulqize - Martanesh",
+    "healthCenterDescription": "Bulqize => Martanesh",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "330351",
+    "healthCenterName": "Bulqize - Fush-Bulqize",
+    "healthCenterDescription": "Bulqize => Fush-Bulqize",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "3320615",
+    "healthCenterName": "Shkoder - QSH Nr. 1 Shkoder",
+    "healthCenterDescription": "Shkoder => QSH Nr. 1 Shkoder",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "3320622",
+    "healthCenterName": "Shkoder - QSH Nr. 4 Shkoder",
+    "healthCenterDescription": "Shkoder => QSH Nr. 4 Shkoder",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "3320627",
+    "healthCenterName": "Shkoder - QSH Nr. 3 Shkoder",
+    "healthCenterDescription": "Shkoder => QSH Nr. 3 Shkoder",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "3320630",
+    "healthCenterName": "Shkoder - QSH Nr. 2 Shkoder",
+    "healthCenterDescription": "Shkoder => QSH Nr. 2 Shkoder",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "3320635",
+    "healthCenterName": "Shkoder - Postribe",
+    "healthCenterDescription": "Shkoder => Postribe",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "3320639",
+    "healthCenterName": "Shkoder - Pult",
+    "healthCenterDescription": "Shkoder => Pult",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "3320641",
+    "healthCenterName": "Shkoder - Guri zi",
+    "healthCenterDescription": "Shkoder => Guri zi",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "3320645",
+    "healthCenterName": "Shkoder - Hajmel",
+    "healthCenterDescription": "Shkoder => Hajmel",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "3320647",
+    "healthCenterName": "Shkoder - Vau-Dejes",
+    "healthCenterDescription": "Shkoder => Vau-Dejes",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "3320651",
+    "healthCenterName": "Shkoder - Bushat",
+    "healthCenterDescription": "Shkoder => Bushat",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "3320654",
+    "healthCenterName": "Shkoder - Barbullush",
+    "healthCenterDescription": "Shkoder => Barbullush",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "3320658",
+    "healthCenterName": "Shkoder - Berdice",
+    "healthCenterDescription": "Shkoder => Berdice",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "3320661",
+    "healthCenterName": "Shkoder - Velipoje",
+    "healthCenterDescription": "Shkoder => Velipoje",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "3320662",
+    "healthCenterName": "Shkoder - Dajc Shkoder",
+    "healthCenterDescription": "Shkoder => Dajc Shkoder",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "3330794",
+    "healthCenterName": "Shkoder - Oblike/Ana e malit",
+    "healthCenterDescription": "Shkoder => Oblike/Ana e malit",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "3330797",
+    "healthCenterName": "Shkoder - Shllak",
+    "healthCenterDescription": "Shkoder => Shllak",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "3340777",
+    "healthCenterName": "Shkoder - Koman/Temal",
+    "healthCenterDescription": "Shkoder => Koman/Temal",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "3340782",
+    "healthCenterName": "Shkoder - Vig Mnel",
+    "healthCenterDescription": "Shkoder => Vig Mnel",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "3340793",
+    "healthCenterName": "QSH Shalë - Shosh",
+    "healthCenterDescription": "Shkoder => Shale (B. Lumi)",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "10",
+    "drfName": "SHKODER",
+    "healthCenterCode": "3340796",
+    "healthCenterName": "Shkoder - Rrethinat",
+    "healthCenterDescription": "Shkoder => Rrethinat",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "340346",
+    "healthCenterName": "Ostren + Trebisht",
+    "healthCenterDescription": "Bulqize => Ostren",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "6",
+    "drfName": "GJIROKASTER",
+    "healthCenterCode": "3410674",
+    "healthCenterName": "Tepelene - Kurvelesh",
+    "healthCenterDescription": "Tepelene => Q.SH Tepelene",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "6",
+    "drfName": "GJIROKASTER",
+    "healthCenterCode": "3410675",
+    "healthCenterName": "Tepelene - Memaliaj",
+    "healthCenterDescription": "Tepelene => Memaliaj",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "6",
+    "drfName": "GJIROKASTER",
+    "healthCenterCode": "3430677",
+    "healthCenterName": "Tepelene - Krahez - Qesarat",
+    "healthCenterDescription": "Tepelene => Krahez",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "6",
+    "drfName": "GJIROKASTER",
+    "healthCenterCode": "3430684",
+    "healthCenterName": "Qender Tepelene - Lopes",
+    "healthCenterDescription": "Tepelene => Qender Tepelene",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "6",
+    "drfName": "GJIROKASTER",
+    "healthCenterCode": "3430687",
+    "healthCenterName": "Buz + Luftinje",
+    "healthCenterDescription": "Tepelene => Buz",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "6",
+    "drfName": "GJIROKASTER",
+    "healthCenterCode": "3450689",
+    "healthCenterName": "IEVP Tepelene",
+    "healthCenterDescription": "IEVP Tepelene",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3510422",
+    "healthCenterName": "Tirane - Poliklinika 1",
+    "healthCenterDescription": "Tirane => Poliklinika 1",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3510423",
+    "healthCenterName": "Tirane - Poliklinika 2",
+    "healthCenterDescription": "Tirane => Poliklinika 2",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3510424",
+    "healthCenterName": "Tirane - Poliklinika 3",
+    "healthCenterDescription": "Tirane => Poliklinika 3",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3510425",
+    "healthCenterName": "Tirane - Poliklinika 4",
+    "healthCenterDescription": "Tirane => Poliklinika 4",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3510426",
+    "healthCenterName": "Tirane - Poliklinika 5",
+    "healthCenterDescription": "Tirane => Poliklinika 5",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3510427",
+    "healthCenterName": "Tirane - Poliklinika 6",
+    "healthCenterDescription": "Tirane => Poliklinika 6",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3510428",
+    "healthCenterName": "Tirane - Poliklinika 7",
+    "healthCenterDescription": "Tirane => Poliklinika 7",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3510429",
+    "healthCenterName": "Tirane - Poliklinika 8",
+    "healthCenterDescription": "Tirane => Poliklinika 8",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3510430",
+    "healthCenterName": "Tirane - Poliklinika 9",
+    "healthCenterDescription": "Tirane => Poliklinika 9",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3510431",
+    "healthCenterName": "Tirane - Qendra e Mjekesise Familjare nr 10",
+    "healthCenterDescription": "Tirane => Qendra e Mjekesise Familjare nr 10",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3510748",
+    "healthCenterName": "Tirane - Don Bosko",
+    "healthCenterDescription": "Tirane => Don Bosko",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "16",
+    "drfName": "KAMEZ - VORE",
+    "healthCenterCode": "3520439",
+    "healthCenterName": "Kamez-Vore - Kamez",
+    "healthCenterDescription": "Kamez-Vore => Kamez",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3520440",
+    "healthCenterName": "Tirane - Kashar",
+    "healthCenterDescription": "Tirane => Kashar",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3520441",
+    "healthCenterName": "Tirane - Krrabe",
+    "healthCenterDescription": "Tirane => Krrabe",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3520449",
+    "healthCenterName": "Tirane - Q. Studenti",
+    "healthCenterDescription": "Tirane => Q. Studenti",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "16",
+    "drfName": "KAMEZ - VORE",
+    "healthCenterCode": "3520451",
+    "healthCenterName": "Kamez-Vore - Vore",
+    "healthCenterDescription": "Kamez-Vore => Vore",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3520740",
+    "healthCenterName": "Tirane - Selite",
+    "healthCenterDescription": "Tirane => Selite",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3530435",
+    "healthCenterName": "Tirane - Baldushk",
+    "healthCenterDescription": "Tirane => Baldushk",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "16",
+    "drfName": "KAMEZ - VORE",
+    "healthCenterCode": "3530436",
+    "healthCenterName": "Kamez-Vore - Berxulle",
+    "healthCenterDescription": "Kamez-Vore => Berxulle",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3530437",
+    "healthCenterName": "Tirane - Berzhite",
+    "healthCenterDescription": "Tirane => Berzhite",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3530438",
+    "healthCenterName": "Tirane - Dajt",
+    "healthCenterDescription": "Tirane => Dajt",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3530442",
+    "healthCenterName": "Tirane - Ndroq",
+    "healthCenterDescription": "Tirane => Ndroq",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "16",
+    "drfName": "KAMEZ - VORE",
+    "healthCenterCode": "3530443",
+    "healthCenterName": "Kamez-Vore - Paskuqan",
+    "healthCenterDescription": "Kamez-Vore => Paskuqan",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3530444",
+    "healthCenterName": "Tirane - Petrele",
+    "healthCenterDescription": "Tirane => Petrele",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3530445",
+    "healthCenterName": "Tirane - Peze",
+    "healthCenterDescription": "Tirane => Peze",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "16",
+    "drfName": "KAMEZ - VORE",
+    "healthCenterCode": "3530446",
+    "healthCenterName": "Kamez-Vore - Preze",
+    "healthCenterDescription": "Kamez-Vore => Preze",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3530447",
+    "healthCenterName": "Tirane - Sauk",
+    "healthCenterDescription": "Tirane => Sauk",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3530448",
+    "healthCenterName": "Tirane - Shengjergj",
+    "healthCenterDescription": "Tirane => Shengjergj",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3530450",
+    "healthCenterName": "Tirane - Vaqarr",
+    "healthCenterDescription": "Tirane => Vaqarr",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3530452",
+    "healthCenterName": "Tirane - Zallbastar",
+    "healthCenterDescription": "Tirane => Zallbastar",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3530453",
+    "healthCenterName": "Tirane - Zallherr",
+    "healthCenterDescription": "Tirane => Zallherr",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3530730",
+    "healthCenterName": "Tirane - Shkoze",
+    "healthCenterDescription": "Tirane => Shkoze",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "16",
+    "drfName": "KAMEZ - VORE",
+    "healthCenterCode": "3530731",
+    "healthCenterName": "Kamez-Vore - K. Kamez",
+    "healthCenterDescription": "Kamez-Vore => K. Kamez",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "16",
+    "drfName": "KAMEZ - VORE",
+    "healthCenterCode": "3530732",
+    "healthCenterName": "Kamez-Vore - Bregu i Lumit",
+    "healthCenterDescription": "Kamez-Vore => Bregu i Lumit",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "16",
+    "drfName": "KAMEZ - VORE",
+    "healthCenterCode": "3530733",
+    "healthCenterName": "Kamez-Vore - Bathore",
+    "healthCenterDescription": "Kamez-Vore => Bathore",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3530735",
+    "healthCenterName": "Tirane - Farke",
+    "healthCenterDescription": "Tirane => Farke",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3550742",
+    "healthCenterName": "IEVP Ali Demi - Tiranë",
+    "healthCenterDescription": "IEVP Ali Demi - Tiranë",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3550744",
+    "healthCenterName": "IEVP Mine Peza - Tiranë",
+    "healthCenterDescription": "IEVP Mine Peza - Tiranë",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3550745",
+    "healthCenterName": "IEVP Vaqarr - Tiranë",
+    "healthCenterDescription": "IEVP Vaqarr - Tiranë",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "11",
+    "drfName": "TIRANE",
+    "healthCenterCode": "3550746",
+    "healthCenterName": "IEVP Jordan Misja",
+    "healthCenterDescription": "IEVP Jordan Misja",
+    "healthCenterEmail": "",
+    "healthCenterPhone": ""
+  },
+  {
+    "drfCode": "14",
+    "drfName": "TROPOJE",
+    "healthCenterCode": "3610803",
+    "healthCenterName": "Tropoje - QSH B.Curri",
+    "healthCenterDescription": "Tropoje => QSH B.Curri",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "14",
+    "drfName": "TROPOJE",
+    "healthCenterCode": "3630093",
+    "healthCenterName": "Tropoje - Tropoje",
+    "healthCenterDescription": "Tropoje => Tropoje",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "14",
+    "drfName": "TROPOJE",
+    "healthCenterCode": "3630094",
+    "healthCenterName": "Tropoje - Bytyc",
+    "healthCenterDescription": "Tropoje => Bytyc",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "14",
+    "drfName": "TROPOJE",
+    "healthCenterCode": "3630095",
+    "healthCenterName": "Tropoje - Lekbibaj",
+    "healthCenterDescription": "Tropoje => Lekbibaj",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "14",
+    "drfName": "TROPOJE",
+    "healthCenterCode": "3630096",
+    "healthCenterName": "Tropoje - Fierze Tropoje",
+    "healthCenterDescription": "Tropoje => Fierze Tropoje",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "14",
+    "drfName": "TROPOJE",
+    "healthCenterCode": "3630097",
+    "healthCenterName": "Tropoje - Margegaj",
+    "healthCenterDescription": "Tropoje => Margegaj",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "14",
+    "drfName": "TROPOJE",
+    "healthCenterCode": "3630098",
+    "healthCenterName": "Tropoje - Bujan",
+    "healthCenterDescription": "Tropoje => Bujan",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "14",
+    "drfName": "TROPOJE",
+    "healthCenterCode": "3630099",
+    "healthCenterName": "Tropoje - Llugaj",
+    "healthCenterDescription": "Tropoje => Llugaj",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "14",
+    "drfName": "TROPOJE",
+    "healthCenterCode": "3650804",
+    "healthCenterName": "IEVP Tropoje",
+    "healthCenterDescription": "IEVP Tropoje",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "12",
+    "drfName": "VLORE",
+    "healthCenterCode": "3710187",
+    "healthCenterName": "Vlore - Selenice",
+    "healthCenterDescription": "Vlore => Selenice",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "12",
+    "drfName": "VLORE",
+    "healthCenterCode": "3710188",
+    "healthCenterName": "Vlore - Orikum",
+    "healthCenterDescription": "Vlore => Orikum",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "12",
+    "drfName": "VLORE",
+    "healthCenterCode": "3710189",
+    "healthCenterName": "Vlore - Himare",
+    "healthCenterDescription": "Vlore => Himare",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "12",
+    "drfName": "VLORE",
+    "healthCenterCode": "3720199",
+    "healthCenterName": "Vlore - QSH NR.1 Vlore",
+    "healthCenterDescription": "Vlore => QSH NR.1 Vlore",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "12",
+    "drfName": "VLORE",
+    "healthCenterCode": "3720200",
+    "healthCenterName": "Vlore - QSH Nr.2 Vlore",
+    "healthCenterDescription": "Vlore => QSH Nr.2 Vlore",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "12",
+    "drfName": "VLORE",
+    "healthCenterCode": "3720201",
+    "healthCenterName": "Vlore - QSH Nr.3 Vlore",
+    "healthCenterDescription": "Vlore => QSH Nr.3 Vlore",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "12",
+    "drfName": "VLORE",
+    "healthCenterCode": "3720202",
+    "healthCenterName": "Vlore - QSH Nr.4 Vlore",
+    "healthCenterDescription": "Vlore => QSH Nr.4 Vlore",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "12",
+    "drfName": "VLORE",
+    "healthCenterCode": "3720203",
+    "healthCenterName": "Vlore - QSH Nr.5 Vlore",
+    "healthCenterDescription": "Vlore => QSH Nr.5 Vlore",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "12",
+    "drfName": "VLORE",
+    "healthCenterCode": "3730190",
+    "healthCenterName": "Vlore - Brataj",
+    "healthCenterDescription": "Vlore => Brataj",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "12",
+    "drfName": "VLORE",
+    "healthCenterCode": "3730191",
+    "healthCenterName": "Vlore - Kote",
+    "healthCenterDescription": "Vlore => Kote",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "12",
+    "drfName": "VLORE",
+    "healthCenterCode": "3730192",
+    "healthCenterName": "Vlore - Shushice Vlore",
+    "healthCenterDescription": "Vlore => Shushice Vlore",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "12",
+    "drfName": "VLORE",
+    "healthCenterCode": "3730193",
+    "healthCenterName": "Vlore - Novosele Vlore",
+    "healthCenterDescription": "Vlore => Novosele Vlore",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "12",
+    "drfName": "VLORE",
+    "healthCenterCode": "3730194",
+    "healthCenterName": "Vlore - Vllahine",
+    "healthCenterDescription": "Vlore => Vllahine",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "12",
+    "drfName": "VLORE",
+    "healthCenterCode": "3730195",
+    "healthCenterName": "Vlore - Narte",
+    "healthCenterDescription": "Vlore => Narte",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "12",
+    "drfName": "VLORE",
+    "healthCenterCode": "3730196",
+    "healthCenterName": "Vlore - Vranisht",
+    "healthCenterDescription": "Vlore => Vranisht",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "12",
+    "drfName": "VLORE",
+    "healthCenterCode": "3730197",
+    "healthCenterName": "Vlore - Sevaster",
+    "healthCenterDescription": "Vlore => Sevaster",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "12",
+    "drfName": "VLORE",
+    "healthCenterCode": "3730198",
+    "healthCenterName": "Vlore - Armen",
+    "healthCenterDescription": "Vlore => Armen",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "12",
+    "drfName": "VLORE",
+    "healthCenterCode": "3750248",
+    "healthCenterName": "IEVP Vlore",
+    "healthCenterDescription": "IEVP Vlore",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "13",
+    "drfName": "SARANDE",
+    "healthCenterCode": "420474",
+    "healthCenterName": "Delvine - QSH DELVINE",
+    "healthCenterDescription": "Delvine => QSH DELVINE",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "13",
+    "drfName": "SARANDE",
+    "healthCenterCode": "430475",
+    "healthCenterName": "Delvine - Vergo",
+    "healthCenterDescription": "Delvine => Vergo",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "13",
+    "drfName": "SARANDE",
+    "healthCenterCode": "430476",
+    "healthCenterName": "Delvine - Finiq",
+    "healthCenterDescription": "Delvine => Finiq",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "13",
+    "drfName": "SARANDE",
+    "healthCenterCode": "430477",
+    "healthCenterName": "Delvine - Mesopotam",
+    "healthCenterDescription": "Delvine => Mesopotam",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "520723",
+    "healthCenterName": "Devoll - Q.SH BILISHT",
+    "healthCenterDescription": "Devoll => Q.SH BILISHT",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "530600",
+    "healthCenterName": "Devoll - Qender Devoll",
+    "healthCenterDescription": "Devoll => Qender Devoll",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "530604",
+    "healthCenterName": "Devoll - HOCISHT",
+    "healthCenterDescription": "Devoll => HOCISHT",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "530607",
+    "healthCenterName": "Devoll - PROGER",
+    "healthCenterDescription": "Devoll => PROGER",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "7",
+    "drfName": "KORCE",
+    "healthCenterCode": "530609",
+    "healthCenterName": "Devoll - MIRAS",
+    "healthCenterDescription": "Devoll => MIRAS",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "610787",
+    "healthCenterName": "Diber - QSH Peshkopi",
+    "healthCenterDescription": "Diber => QSH Peshkopi",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "630324",
+    "healthCenterName": "Diber - Tomin",
+    "healthCenterDescription": "Diber => Tomin",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "630327",
+    "healthCenterName": "Diber - Kastriot",
+    "healthCenterDescription": "Diber => Kastriot",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "630328",
+    "healthCenterName": "Diber - Maqellare",
+    "healthCenterDescription": "Diber => Maqellare",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "630330",
+    "healthCenterName": "Diber - Melan",
+    "healthCenterDescription": "Diber => Melan",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "630332",
+    "healthCenterName": "Diber - Luzni",
+    "healthCenterDescription": "Diber => Luzni",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "630333",
+    "healthCenterName": "Diber - Muhurr",
+    "healthCenterDescription": "Diber => Muhurr",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "630334",
+    "healthCenterName": "Diber - Selishte",
+    "healthCenterDescription": "Diber => Selishte",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "630335",
+    "healthCenterName": "Diber - Zall-Rec",
+    "healthCenterDescription": "Diber => Zall-Rec",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "630336",
+    "healthCenterName": "Diber - Sllove",
+    "healthCenterDescription": "Diber => Sllove",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "630337",
+    "healthCenterName": "Diber - Lure",
+    "healthCenterDescription": "Diber => Lure",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "630338",
+    "healthCenterName": "Diber - Arras",
+    "healthCenterDescription": "Diber => Arras",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "630339",
+    "healthCenterName": "Diber - Kala e Dodes",
+    "healthCenterDescription": "Diber => Kala e Dodes",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "630340",
+    "healthCenterName": "Diber - Cidhen",
+    "healthCenterDescription": "Diber => Cidhen",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "2",
+    "drfName": "DIBER",
+    "healthCenterCode": "630341",
+    "healthCenterName": "Diber - Zall-Dardhe",
+    "healthCenterDescription": "Diber => Zall-Dardhe",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "3",
+    "drfName": "DURRES",
+    "healthCenterCode": "710021",
+    "healthCenterName": "Durres - Shijak",
+    "healthCenterDescription": "Durres => Shijak",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "3",
+    "drfName": "DURRES",
+    "healthCenterCode": "710784",
+    "healthCenterName": "Durres - Poliklinika Ryder",
+    "healthCenterDescription": "Durres => Poliklinika Ryder",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "3",
+    "drfName": "DURRES",
+    "healthCenterCode": "720003",
+    "healthCenterName": "Durres - QSH Nr. 1 Durres",
+    "healthCenterDescription": "Durres => QSH Nr. 1 Durres",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "3",
+    "drfName": "DURRES",
+    "healthCenterCode": "720007",
+    "healthCenterName": "Durres - QSH Nr. 2 Durres",
+    "healthCenterDescription": "Durres => QSH Nr. 2 Durres",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "3",
+    "drfName": "DURRES",
+    "healthCenterCode": "720010",
+    "healthCenterName": "Durres - QSH Nr. 4 Durres",
+    "healthCenterDescription": "Durres => QSH Nr. 4 Durres",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "3",
+    "drfName": "DURRES",
+    "healthCenterCode": "720014",
+    "healthCenterName": "Durres - QSH Nr. 3 Durres",
+    "healthCenterDescription": "Durres => QSH Nr. 3 Durres",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "3",
+    "drfName": "DURRES",
+    "healthCenterCode": "720015",
+    "healthCenterName": "Durres - QSH Nr. 6 Durres",
+    "healthCenterDescription": "Durres => QSH Nr. 6 Durres",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "3",
+    "drfName": "DURRES",
+    "healthCenterCode": "720016",
+    "healthCenterName": "Durres - QSH Nr. 7 Durres",
+    "healthCenterDescription": "Durres => QSH Nr. 7 Durres",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "3",
+    "drfName": "DURRES",
+    "healthCenterCode": "720017",
+    "healthCenterName": "Durres - QSH Nr. 8 Durres",
+    "healthCenterDescription": "Durres => QSH Nr. 8 Durres",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "3",
+    "drfName": "DURRES",
+    "healthCenterCode": "720018",
+    "healthCenterName": "Durres - QSH Nr. 5 Durres",
+    "healthCenterDescription": "Durres => QSH Nr. 5 Durres",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "3",
+    "drfName": "DURRES",
+    "healthCenterCode": "720802",
+    "healthCenterName": "Durres - Kenete",
+    "healthCenterDescription": "Durres => Kenete",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "3",
+    "drfName": "DURRES",
+    "healthCenterCode": "730022",
+    "healthCenterName": "Durres - Sukth",
+    "healthCenterDescription": "Durres => Sukth",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "3",
+    "drfName": "DURRES",
+    "healthCenterCode": "730023",
+    "healthCenterName": "Durres - Manze",
+    "healthCenterDescription": "Durres => Manze",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "3",
+    "drfName": "DURRES",
+    "healthCenterCode": "730024",
+    "healthCenterName": "Durres - Rrashbull",
+    "healthCenterDescription": "Durres => Rrashbull",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "3",
+    "drfName": "DURRES",
+    "healthCenterCode": "730025",
+    "healthCenterName": "Durres - Xhafzotaj",
+    "healthCenterDescription": "Durres => Xhafzotaj",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "3",
+    "drfName": "DURRES",
+    "healthCenterCode": "730026",
+    "healthCenterName": "Durres - Katund i Ri",
+    "healthCenterDescription": "Durres => Katund i Ri",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "3",
+    "drfName": "DURRES",
+    "healthCenterCode": "730027",
+    "healthCenterName": "Durres - Gjepalaj",
+    "healthCenterDescription": "Durres => Gjepalaj",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "3",
+    "drfName": "DURRES",
+    "healthCenterCode": "730028",
+    "healthCenterName": "Durres - Maminas",
+    "healthCenterDescription": "Durres => Maminas",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "3",
+    "drfName": "DURRES",
+    "healthCenterCode": "730029",
+    "healthCenterName": "Durres - Ishem",
+    "healthCenterDescription": "Durres => Ishem",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "3",
+    "drfName": "DURRES",
+    "healthCenterCode": "750803",
+    "healthCenterName": "QSH IEVP - Durres",
+    "healthCenterDescription": "QSH IEVP - Durres",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "820390",
+    "healthCenterName": "Elbasan - QSH Nr 1 Elbasan",
+    "healthCenterDescription": "Elbasan => QSH Nr 1 Elbasan",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "820392",
+    "healthCenterName": "Elbasan - QSH Nr 2 Elbasan",
+    "healthCenterDescription": "Elbasan => QSH Nr 2 Elbasan",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "820393",
+    "healthCenterName": "Elbasan - QSH Nr 3 Elbasan",
+    "healthCenterDescription": "Elbasan => QSH Nr 3 Elbasan",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "820400",
+    "healthCenterName": "Elbasan - Cerrik",
+    "healthCenterDescription": "Elbasan => Cerrik",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "820401",
+    "healthCenterName": "Elbasan - Belsh+Rrase",
+    "healthCenterDescription": "Elbasan => Belsh+Rrase",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "820402",
+    "healthCenterName": "Elbasan - Paper",
+    "healthCenterDescription": "Elbasan => Paper",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "820403",
+    "healthCenterName": "Elbasan - Gostime",
+    "healthCenterDescription": "Elbasan => Gostime",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "830404",
+    "healthCenterName": "Elbasan - Labinot  Fushe",
+    "healthCenterDescription": "Elbasan => Labinot  Fushe",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "830405",
+    "healthCenterName": "Elbasan - Labinot  Mal",
+    "healthCenterDescription": "Elbasan => Labinot  Mal",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "830406",
+    "healthCenterName": "Elbasan - Mollas Elbasan",
+    "healthCenterDescription": "Elbasan => Mollas Elbasan",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "830407",
+    "healthCenterName": "Elbasan - Shushice",
+    "healthCenterDescription": "Elbasan => Shushice",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "830408",
+    "healthCenterName": "Elbasan - Shales",
+    "healthCenterDescription": "Elbasan => Shales",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "830409",
+    "healthCenterName": "Elbasan - Gjergjan",
+    "healthCenterDescription": "Elbasan => Gjergjan",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "830410",
+    "healthCenterName": "Elbasan - Kajan",
+    "healthCenterDescription": "Elbasan => Kajan",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "830411",
+    "healthCenterName": "Elbasan - Grekan",
+    "healthCenterDescription": "Elbasan => Grekan",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "830412",
+    "healthCenterName": "Elbasan - Funar",
+    "healthCenterDescription": "Elbasan => Funar",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "830413",
+    "healthCenterName": "Elbasan - Rrase",
+    "healthCenterDescription": "Elbasan => Rrase",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "830414",
+    "healthCenterName": "Elbasan - Shirgjan",
+    "healthCenterDescription": "Elbasan => Shirgjan",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "830415",
+    "healthCenterName": "Elbasan - Tregan",
+    "healthCenterDescription": "Elbasan => Tregan",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "830416",
+    "healthCenterName": "Elbasan - Bradashesh",
+    "healthCenterDescription": "Elbasan => Bradashesh",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "830417",
+    "healthCenterName": "Elbasan - Gracen",
+    "healthCenterDescription": "Elbasan => Gracen",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "830418",
+    "healthCenterName": "Elbasan - Fierze Elbasan",
+    "healthCenterDescription": "Elbasan => Fierze Elbasan",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "830419",
+    "healthCenterName": "Elbasan - Klos Elbasan",
+    "healthCenterDescription": "Elbasan => Klos Elbasan",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "830700",
+    "healthCenterName": "Qsh Gjinar-Zavaline",
+    "healthCenterDescription": "Elbasan => Gjinar",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "4",
+    "drfName": "ELBASAN",
+    "healthCenterCode": "850743",
+    "healthCenterName": "Elbasan - IEVP Elbasan",
+    "healthCenterDescription": "Elbasan => IEVP Elbasan",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "5",
+    "drfName": "FIER",
+    "healthCenterCode": "910352",
+    "healthCenterName": "Fier - QSH Nr. 1 Fier",
+    "healthCenterDescription": "Fier => QSH Nr. 1 Fier",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "5",
+    "drfName": "FIER",
+    "healthCenterCode": "910353",
+    "healthCenterName": "Fier - Patos+Ruzhdije",
+    "healthCenterDescription": "Fier => Patos+Ruzhdije",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "5",
+    "drfName": "FIER",
+    "healthCenterCode": "910354",
+    "healthCenterName": "Fier - Roskovec",
+    "healthCenterDescription": "Fier => Roskovec",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "5",
+    "drfName": "FIER",
+    "healthCenterCode": "920359",
+    "healthCenterName": "Fier - QSH Nr. 3 Fier",
+    "healthCenterDescription": "Fier => QSH Nr. 3 Fier",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "5",
+    "drfName": "FIER",
+    "healthCenterCode": "920360",
+    "healthCenterName": "Fier - QSH Nr. 2 Fier",
+    "healthCenterDescription": "Fier => QSH Nr. 2 Fier",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "5",
+    "drfName": "FIER",
+    "healthCenterCode": "930365",
+    "healthCenterName": "Fier - Frakull",
+    "healthCenterDescription": "Fier => Frakull",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "5",
+    "drfName": "FIER",
+    "healthCenterCode": "930367",
+    "healthCenterName": "Fier - Portez",
+    "healthCenterDescription": "Fier => Portez",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "5",
+    "drfName": "FIER",
+    "healthCenterCode": "930368",
+    "healthCenterName": "Fier - Clirim",
+    "healthCenterDescription": "Fier => Clirim",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "5",
+    "drfName": "FIER",
+    "healthCenterCode": "930370",
+    "healthCenterName": "Fier - Zharrez",
+    "healthCenterDescription": "Fier => Zharrez",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "5",
+    "drfName": "FIER",
+    "healthCenterCode": "930372",
+    "healthCenterName": "Fier - Kurjan",
+    "healthCenterDescription": "Fier => Kurjan",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "5",
+    "drfName": "FIER",
+    "healthCenterCode": "930374",
+    "healthCenterName": "Fier - Ruzhdie",
+    "healthCenterDescription": "Fier => Ruzhdie",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "5",
+    "drfName": "FIER",
+    "healthCenterCode": "930375",
+    "healthCenterName": "Fier - Kuman",
+    "healthCenterDescription": "Fier => Kuman",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "5",
+    "drfName": "FIER",
+    "healthCenterCode": "930378",
+    "healthCenterName": "Fier - Levan",
+    "healthCenterDescription": "Fier => Levan",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "5",
+    "drfName": "FIER",
+    "healthCenterCode": "930380",
+    "healthCenterName": "Fier - Mbrostar",
+    "healthCenterDescription": "Fier => Mbrostar",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "5",
+    "drfName": "FIER",
+    "healthCenterCode": "930381",
+    "healthCenterName": "Fier - Libofshe",
+    "healthCenterDescription": "Fier => Libofshe",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "5",
+    "drfName": "FIER",
+    "healthCenterCode": "930383",
+    "healthCenterName": "Fier - Topoje",
+    "healthCenterDescription": "Fier => Topoje",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "5",
+    "drfName": "FIER",
+    "healthCenterCode": "930385",
+    "healthCenterName": "Fier - Dermenas",
+    "healthCenterDescription": "Fier => Dermenas",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "5",
+    "drfName": "FIER",
+    "healthCenterCode": "930387",
+    "healthCenterName": "Fier - Strume",
+    "healthCenterDescription": "Fier => Strume",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "5",
+    "drfName": "FIER",
+    "healthCenterCode": "930389",
+    "healthCenterName": "Fier - Cakran",
+    "healthCenterDescription": "Fier => Cakran",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  },
+  {
+    "drfCode": "5",
+    "drfName": "FIER",
+    "healthCenterCode": "950504",
+    "healthCenterName": "Fier - IEVP FIER",
+    "healthCenterDescription": "Fier => IEVP FIER",
+    "healthCenterEmail": "N/A",
+    "healthCenterPhone": "N/A"
+  }
+]

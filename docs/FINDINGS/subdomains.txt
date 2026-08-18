@@ -1,0 +1,85 @@
+# AKSHI Subdomains (from crt.sh)
+# Discovered: 2026-01-25
+
+## e-albania.al
+*.e-albania.al
+e-albania.al
+
+## akshi.gov.al
+*.akshi.gov.al
+akshi.gov.al
+www.akshi.gov.al
+
+# Core Services
+abi.akshi.gov.al
+ams.akshi.gov.al
+www.ams.akshi.gov.al
+cloud.akshi.gov.al
+dergo.akshi.gov.al
+eauth.akshi.gov.al
+eform.akshi.gov.al
+www.eform.akshi.gov.al
+esign.akshi.gov.al
+www.esign.akshi.gov.al
+
+# Data Center / Development
+dc.akshi.gov.al
+dc-hasura.akshi.gov.al
+dc-keycloak.akshi.gov.al
+dc-rest.akshi.gov.al
+dc-serve.akshi.gov.al
+dcim.akshi.gov.al
+code-server.akshi.gov.al
+collabora.akshi.gov.al
+cwp.akshi.gov.al
+cwp2.akshi.gov.al
+cwp7.akshi.gov.al
+
+# Survey System
+bsurvey.akshi.gov.al
+cpanel.bsurvey.akshi.gov.al
+mail.bsurvey.akshi.gov.al
+webmail.bsurvey.akshi.gov.al
+www.bsurvey.akshi.gov.al
+
+# Mona System
+mona.akshi.gov.al
+cpanel.mona.akshi.gov.al
+mail.mona.akshi.gov.al
+webmail.mona.akshi.gov.al
+www.mona.akshi.gov.al
+
+# Employment (Punaime)
+punaime.akshi.gov.al
+cpanel.punaime.akshi.gov.al
+mail.punaime.akshi.gov.al
+webmail.punaime.akshi.gov.al
+www.punaime.akshi.gov.al
+
+# Research
+research.akshi.gov.al
+cpanel.research.akshi.gov.al
+mail.research.akshi.gov.al
+webmail.research.akshi.gov.al
+www.research.akshi.gov.al
+
+# Services (Sherbime)
+sherbime.akshi.gov.al
+cpanel.sherbime.akshi.gov.al
+mail.sherbime.akshi.gov.al
+webmail.sherbime.akshi.gov.al
+www.sherbime.akshi.gov.al
+
+# TM System
+tm.akshi.gov.al
+cpanel.tm.akshi.gov.al
+mail.tm.akshi.gov.al
+webmail.tm.akshi.gov.al
+www.tm.akshi.gov.al
+
+# Training (Trajnime)
+trajnime.akshi.gov.al
+cpanel.trajnime.akshi.gov.al
+mail.trajnime.akshi.gov.al
+webmail.trajnime.akshi.gov.al
+www.trajnime.akshi.gov.al
