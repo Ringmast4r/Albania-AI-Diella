@@ -1,6 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=220&section=header&text=ALBANIA%20AI%20%E2%80%A2%20DIELLA&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=The%20Anti-Corruption%20AI%20Built%20by%20Corrupt%20Officials&descSize=18&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:96232E&height=220&section=header&text=ALBANIA%20AI%20%E2%80%A2%20DIELLA&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=The%20Anti-Corruption%20AI%20Built%20by%20Corrupt%20Officials&descSize=18&descAlignY=58"/>
+
+`Web` [`HTML`](https://developer.mozilla.org/en-US/docs/Web/HTML) `OSINT` `Archive` - Albania AI Diella OSINT archive: corruption arrests, Iranian cyberattacks, 1.5M+ citizen data leaks, 54k+ documents. Download: https://odint.io/pages/tours/albania
+
+[Project website / live view](https://ringmast4r.github.io/Albania-AI-Diella/MP-PII-VIEWER.html)
 
 [![Diella - Albania's AI Minister](https://img.shields.io/badge/DIELLA-Albania's%20AI%20Minister-CC0000?style=flat-square&logo=robot&logoColor=white)](https://e-albania.al)
 
@@ -20,18 +24,18 @@
 
 <br>
 
-[![Corruption](https://img.shields.io/badge/AKSHI_Arrests-December_2025-8B0000?style=for-the-badge&logo=alert&logoColor=white)](./docs/FINDINGS/akshi_corruption.md)
+[![Corruption](https://img.shields.io/badge/AKSHI_Arrests-December_2025-96232E?style=for-the-badge&logo=alert&logoColor=white)](./docs/FINDINGS/akshi_corruption.md)
 [![Iranian_Hacks](https://img.shields.io/badge/Iranian_Breaches-2022%E2%80%932024-CC0000?style=for-the-badge&logo=shield&logoColor=white)](./docs/FINDINGS/iranian_cyberattacks.md)
 [![Documents](https://img.shields.io/badge/Documents-54%2C000%2B-000000?style=for-the-badge&logo=file&logoColor=white)](./documents)
-[![Data_Exposed](https://img.shields.io/badge/Citizen_Data_Leaked-1.5M%2B_records-8B0000?style=for-the-badge&logo=database&logoColor=white)](./docs/FINDINGS/data_breaches.md)
+[![Data_Exposed](https://img.shields.io/badge/Citizen_Data_Leaked-1.5M%2B_records-96232E?style=for-the-badge&logo=database&logoColor=white)](./docs/FINDINGS/data_breaches.md)
 
 <br>
 
-[![Stars](https://img.shields.io/github/stars/Ringmast4r/Albania-AI-Diella?style=flat-square&color=8B0000&label=%E2%98%85%20Stars)](https://github.com/Ringmast4r/Albania-AI-Diella/stargazers)
+[![Stars](https://img.shields.io/github/stars/Ringmast4r/Albania-AI-Diella?style=flat-square&color=96232E&label=%E2%98%85%20Stars)](https://github.com/Ringmast4r/Albania-AI-Diella/stargazers)
 [![Forks](https://img.shields.io/github/forks/Ringmast4r/Albania-AI-Diella?style=flat-square&color=CC0000&label=%E2%9A%A1%20Forks)](https://github.com/Ringmast4r/Albania-AI-Diella/network/members)
 [![Repo Size](https://img.shields.io/github/repo-size/Ringmast4r/Albania-AI-Diella?style=flat-square&color=000000)](https://github.com/Ringmast4r/Albania-AI-Diella)
-[![Last Commit](https://img.shields.io/github/last-commit/Ringmast4r/Albania-AI-Diella?style=flat-square&color=8B0000)](https://github.com/Ringmast4r/Albania-AI-Diella/commits/main)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ringmast4r.Albania-AI-Diella&style=flat-square&color=8B0000&label=%F0%9F%91%81%20Visitors)](https://odint.io/pages/tours/albania)
+[![Last Commit](https://img.shields.io/github/last-commit/Ringmast4r/Albania-AI-Diella?style=flat-square&color=96232E)](https://github.com/Ringmast4r/Albania-AI-Diella/commits/main)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ringmast4r.Albania-AI-Diella&style=flat-square&color=96232E&label=%F0%9F%91%81%20Visitors)](https://odint.io/pages/tours/albania)
 
 ---
 
@@ -531,6 +535,6 @@ The corruption arrests are public record. The cyber attacks are attributed by NA
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=120&section=footer&text=DOCUMENT%20%E2%80%A2%20ARCHIVE%20%E2%80%A2%20ACCOUNTABILITY&fontSize=18&fontColor=ffffff&fontAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:96232E,100:000000&height=120&section=footer&text=DOCUMENT%20%E2%80%A2%20ARCHIVE%20%E2%80%A2%20ACCOUNTABILITY&fontSize=18&fontColor=ffffff&fontAlignY=65"/>
 
 </div>
